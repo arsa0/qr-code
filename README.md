@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/arsa0/qr-code.git
+- Live Site URL: https://qr-code-frontend-mentor-arsa0.vercel.app/
 
 ## My process
 
@@ -44,7 +44,7 @@ box-shadow: rgba(0, 0, 0, 0.15) 0.3rem 0.4rem 0.1rem;
 
 ### Continued development
 
-I'm still not that experienced with responsive css layout, so i might need to use more media queries and clamp and other modern css.
+I'm still not that experienced with responsive css layout, so i might need to use more media queries and clamp and other modern css. Please give me any feedback that so i can improve myself.
 
 ### Useful resources
 
